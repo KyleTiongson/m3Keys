@@ -1,0 +1,44 @@
+.main-header{
+  background: url(images/header_img-4.jpg);
+  min-height: 700px;
+  background-size: cover;
+  background-position: center;
+  color: rgb(187, 228, 76);
+  font-family: 'Bebas Neue', cursive;
+}
+
+.faqContent{
+  font-family: 'Oswald', sans-serif;
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 17px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+
+.card .card-title {
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.carousel .carousel-item {
+  width:300px ;
+}
+
+.shopping-cart{
+  padding-left: 85px;
+  padding-top: 85%;
+}
+
+
